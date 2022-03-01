@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of the Right Honorable the Lord Mayor of London with the humble address of the military forces of the same city to the Kings most excellent Majesty. With his Majesties most gracious answer thereunto, and letter to the Lord Mayor thereupon. And all the transactions incident thereunto. Published by authority.</title>
+            <author>Browne, Richard, Sir, 1605-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01812</idno>
+            <idno type="STC">Wing B5146A</idno>
+            <idno type="STC">ESTC R173188</idno>
+            <idno type="EEBO-CITATION">53981466</idno>
+            <idno type="OCLC">ocm 53981466</idno>
+            <idno type="VID">180128</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01812)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180128)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2817:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of the Right Honorable the Lord Mayor of London with the humble address of the military forces of the same city to the Kings most excellent Majesty. With his Majesties most gracious answer thereunto, and letter to the Lord Mayor thereupon. And all the transactions incident thereunto. Published by authority.</title>
+                  <author>Browne, Richard, Sir, 1605-1683.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London ;</pubPlace>
+                  <pubPlace>and re-printed at Edinburgh :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within double-line border.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century --  Sources.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180128:1" rendition="simple:additions"/>
+            <p>THE SPEECH Of the Right Honorable, The LORD MAYOR of <hi>London,</hi> With the Humble ADDRESSE OF THE MILITARY FORCES Of the ſame CITY, To The Kings moſt Excellent MAJESTY.</p>
+            <p>With His MAJESTIES moſt Gracious ANSWER Thereunto, And LETTER To the Lord Mayor thereupon.</p>
+            <p>And all the Tranſactions incident thereunto.</p>
+            <p>Publiſhed by Authority</p>
+            <p>Printed at <hi>London,</hi> and Re-printed at <hi>Edinburgh, Anno Dom.</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:180128:2"/>
+            <pb n="3" facs="tcp:180128:2"/>
+            <p>THat highly deſerving Gentleman, and faithfull Sub<g ref="char:EOLhyphen"/>ject, Sir <hi>Richard Brown,</hi> Knight and Baronet, now Lord Mayor, and Major General of the City of <hi>London,</hi> the Field Officers, Captains, and other inferiour Officers of all the Trained Bands, the Regiments of Horſe, and Re<g ref="char:EOLhyphen"/>giments of Auxiliary Forces of that famous City, met on <hi>Tueſday</hi> the ſecond of <hi>April,</hi> 1661. at the <hi>Guildhall</hi> of the ſame City and there ſubſcribed the following Addreſs.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Dread Soveraign.</salute>
+                  </opener>
+                  <p>YOur moſt Loyal and moſt Devoted Subjects, Your Major General, Field Officers and Captains, with all the In<g ref="char:EOLhyphen"/>feriour Officers of the ſeveral Regiments of Your Trained-Bands of Your City of <hi>London,</hi> whiles ſome mens zeal, through unrighteous Seducements, ſeems a little cooled towards Your Majeſties Service, Do with all humble boldneſs Remonſtrate the Conſtancy of theirs; And in a deep ſenſe of their Duty and high Obligations to Your Sacred Majeſty for Your eſpeciall Indulgencies to this Your Native City, do Dedi<g ref="char:EOLhyphen"/>cate their Lives and Eſtates to Your Majeſties Service; Here<g ref="char:EOLhyphen"/>by adding to their Oath of Allegiance, That they will not on<g ref="char:EOLhyphen"/>ly bear Faith and Obedience to Your Majeſty, but upon all Oc<g ref="char:EOLhyphen"/>caſions joyfully employ and improve their uttermoſt power and vigilancy with their Lives and Fortunes to deſtroy Your Ene<g ref="char:EOLhyphen"/>mies in defence of Your Royall Perſon and Authority, and ſe<g ref="char:EOLhyphen"/>curing all Your juſt civil Intereſts, with the Intereſt of Reli<g ref="char:EOLhyphen"/>gion as it is now eſtabliſhed by Law: For, Your Majeſty being eminently the moſt Pious, Gracious, and Worthy Prince in the
+<pb n="4" facs="tcp:180128:3"/> World, we cannot, without exceeding all other Subjects in Loy<g ref="char:EOLhyphen"/>alty and Affection, deſerve the Title of</p>
+                  <closer>
+                     <signed>Your Majeſties True, Dutifull, Humble, and Obedient Subjects and Servants.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The ſaid Addreſs was ſubſcribed by the ſeveral Officers, as well Superiour as Inferiour, of all the Trained-Bands, the Regiments of Horſe and Auxiliary Forces of the City, to the number of ſome five hundred perſons; which being already re-printed and publi<g ref="char:EOLhyphen"/>ſhed, is here forborn.</p>
+            <p>All which marched in an orderly Train on Foot, onely the Lord Mayor leading them in his Coach to the Court at Whitehall, and were inſtantly received into the Banquetting-Houſe. His Maje<g ref="char:EOLhyphen"/>ſty at their coming being in debate of ſome important Affairs at the Council, was pleaſed in much favour to ſend a Perſon of quality, and after him ſeveral other Gentlemen one after another, to ac<g ref="char:EOLhyphen"/>quaint them with that occaſion, and to beſpeak their attendance till the ſame would permit His abſence from the Council: Not<g ref="char:EOLhyphen"/>withſtanding, it pleaſed His Majeſty after a little while to ſpare himſelf from thoſe Affairs at the Council; and with great ſhew of Princely favour and regard to receive the Papers of Addreſs into His own hand, being preſented by the Lord Mayor after he had delivered himſelf in this affectionate Speech.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <head>THE Lord Mayors Speech.</head>
+                        <opener>
+                           <salute>May it pleaſe Your Majeſty.</salute>
+                        </opener>
+                        <p>
+                           <hi>I</hi> Came accompanied with theſe Your Officers, who command all Your <hi>Lon<g ref="char:EOLhyphen"/>don</hi>
+                           <pb n="5" facs="tcp:180128:3"/> Forces both Horſe and Foot: <note n="☞" place="margin">Point<g ref="char:EOLhyphen"/>ing at them ſeverally.</note> Here ſtand thoſe that command Your Horſe, theſe Your Trained Bands, The other, Your Auxiliaries. When Your Majeſty hath taken a right view of them, You will ſee Loyalty linked in an unchangeable Chain; Theſe are they who will not ſwerve from what they ſwear, that's fealty without falſity, and it were a ſhame not to do ſo; ſeing we ſow in peace and reap the plenty which ſprings from ſo excellent a Gover<g ref="char:EOLhyphen"/>nour, ſo good a Government: If You pleaſe, to ſee our hearts, theſe lines lead to them, and ſpeak for them, which I here humbly preſent unto Your Sacred Majeſty in their names and under their hands, Beſeeching Your Majeſty to accept them as a dutifull return of thoſe many ſignal favors vouch<g ref="char:EOLhyphen"/>ſafed by Your Majeſty to Your Native City and Loyall Citizens.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="6" facs="tcp:180128:4"/>
+            <p>Whereunto His Majeſty replyed, That He had ſtoln a time from very important Af<g ref="char:EOLhyphen"/>fairs, on which He was in debate with His Council, to come to them; and gave a moſt gracious anſwer, declaring His good eſteem of them; His kinde reſentment of their Ad<g ref="char:EOLhyphen"/>dreſs; His aſſured confidence in their faith<g ref="char:EOLhyphen"/>fulneſs; His readineſs and deſire to advance the welfare of the City; and many other ex<g ref="char:EOLhyphen"/>preſſions full of Princely goodneſs and af<g ref="char:EOLhyphen"/>fection.</p>
+            <p>And after all this, was further pleaſed that night to ſend a worthy Gentleman, Clerk of the Council, to the Lord Mayor, to give no<g ref="char:EOLhyphen"/>tice that His Majeſty intended the next day to ſend down ſome Lords of His Council to make a more ample ſignification of His Ma<g ref="char:EOLhyphen"/>jeſties gracious acceptance of the Addreſs, and to require a meeting of the Commanders and Officers for that purpoſe: But their Lordſhips, being prevented by the Lords Commiſſioners ſitting for Claims at the Co<g ref="char:EOLhyphen"/>ronation, ſent to excuſe their perſonal com<g ref="char:EOLhyphen"/>ing by a Meſſenger to the Lord Mayor, who alſo brought His Majeſties gracious Letter in theſe words.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="7" facs="tcp:180128:4"/>
+                  <opener>
+                     <signed>CHARLES <hi>R.</hi>
+                     </signed>
+                     <lb/>
+                     <salute>TRuſty and welbeloved, We greet you well.</salute>
+                  </opener>
+                  <p>We have received your Ad<g ref="char:EOLhyphen"/>dreſs, wherein you do not only give <g ref="char:V">Ʋ</g>s a full and acceptable Demonſtration of your Duty, Love, and Loyalty to <g ref="char:V">Ʋ</g>s (which We do Graciouſly accept) but alſo ſhew forth an Eminent Example thereof to all other Our good Subjects within Our King<g ref="char:EOLhyphen"/>doms and Dominions. You may be aſſured that as Our Royal Progenitors have al<g ref="char:EOLhyphen"/>wayes had a particular and extraordinary kindneſs for that Our Capital City, ſo We ſhall not come behind any of them in Our Princely care to make the ſame both flou<g ref="char:EOLhyphen"/>riſhing and ſecure at home, and glorious and renowned abroad. And ſo We bid you farewell. <hi>Given at Our Court at</hi>
+                     <pb n="8" facs="tcp:180128:5"/> Whitehall, <hi>this third day of</hi> April <hi>in the thirteenth year of Our Reign.</hi>
+                  </p>
+                  <closer>
+                     <signed>By His Majeſties Command, VVILL. MORICE.</signed>
+                  </closer>
+                  <trailer>To Our Truſty and Welbeloved, Sir <hi>Richard Brown,</hi> Knight and Baronet, Lord Mayor, and Major-General of Our City of <hi>London,</hi> to be Communicated to the Field Officers and Captains, with all the Inferiour Offi<g ref="char:EOLhyphen"/>cers of the ſeveral Regiments of the Trai<g ref="char:EOLhyphen"/>ned Bands, the Regiments of Horſe, and the Regiments of Auxiliary Forces of Our ſaid City.</trailer>
+               </body>
+            </floatingText>
+            <p>Which being read in preſence of all the Field Officers, made deep impreſſions of His Majeſties Grace and Favour upon their minds, and drew forth all anſwerable acknowledgements in out<g ref="char:EOLhyphen"/>ward expreſſions, which they ordered preſently to be repreſented to His Majeſty by Sir <hi>Richard Ford,</hi> Sir <hi>William Vincent,</hi> and Sir <hi>Thomas Player,</hi> and directed them to beg of His Majeſty this Roy<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l addition, That they might publiſh in print the Narrative of the whole paſſage of their dutifull Addreſs, and the moſt gracious re<g ref="char:EOLhyphen"/>ception thereof by His Sacred Majeſty, for the juſt ſupport of thoſe good Subjects, whoſe Loyal affections attended that Remonſtrance, and at once to ſtop the mouths of thoſe who detracted from the Royal acceptance of it, and to encourage them (if they have any ſenſe of Duty and Honor) to out-do the Remonſtrants in the like real profeſſion of their bounden duty: for which the ſaid Of<g ref="char:EOLhyphen"/>ficers ſhall both love and honor their new Rivals, and in all amity and mutual affections keep peace with them, if they can.</p>
+            <p>Which His Majeſty was graciouſly well pleaſed to approve of, and conſent that His Royal Letter, and all the preceeding Paſſages ſhould be made publick.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
